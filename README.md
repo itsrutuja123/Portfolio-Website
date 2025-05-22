@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This platform showcases my skills, pro
 - **Version Control**: Git, GitHub
 - **Other Tools**: Visual Studio Code, Postman, npm/yarn
 
-## Projects
+## Full Stack Projects
 
 ### 1. Wanderlust: Hotel Renting Site
 A full-stack hotel renting platform designed to connect travelers with curated stays. The project integrates a responsive, user-friendly UI with a backend for booking management and user authentication.
