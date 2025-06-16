@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Personal Portfolio Website:
 
 Welcome to my personal portfolio website! This platform showcases my skills, projects, and experiences as a web developer. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and have a strong foundation in both frontend and backend technologies.
 
